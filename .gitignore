@@ -1,0 +1,7 @@
+# Ignore vscode settings folder
+.vscode
+
+# Ignore arduino output folder
+.arduinoOutput
+
+
