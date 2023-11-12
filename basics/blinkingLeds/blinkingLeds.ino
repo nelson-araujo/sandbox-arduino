@@ -1,7 +1,7 @@
 // Blinking LEDs
 
 int BLUE_LED = 13;
-int DELAY = 0000;
+int DELAY = 1000;
 
 // Setup function
 void setup(){
