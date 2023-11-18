@@ -1,4 +1,5 @@
 // traffic light
+// Elegoo mega2560
 
 int RED_LED = 13;
 int YELLOW_LED = 12;

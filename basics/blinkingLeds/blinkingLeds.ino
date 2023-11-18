@@ -1,4 +1,5 @@
 // Blinking LEDs
+// Elegoo mega2560
 
 int BLUE_LED = 13;
 int DELAY = 1000;

@@ -1,4 +1,5 @@
 // Monitor input
+// Arduino micro
 
 int PIN = 1;
 

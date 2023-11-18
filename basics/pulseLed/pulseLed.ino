@@ -1,4 +1,5 @@
 // LED pulsades using an analog pin
+// Arduino micro
 
 // Globals
 int GREEN_LED = 11;
